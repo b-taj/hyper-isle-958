@@ -149,4 +149,4 @@ Green button in the Quick Start section.
 | Common questions | [FAQ](#faq) |
 | Download | [Download](#download) |
 
-*hyper-isle-958 · Updated 2026-10-09 · Shared under the MIT License*
+*hyper-isle-958 · Updated 2026-10-10 · Shared under the MIT License*
